@@ -258,7 +258,7 @@ pip install -r requirements.txt --force-reinstall
 
 ---
 
-## 🎯 Testing Scenarios
+## 🎯 Testing Scenario
 
 ### Scenario 1: Farmer Seeking PM-KISAN
 1. Create citizen with occupation="farmer"

@@ -376,4 +376,4 @@ The Scheme Saarthi backend is now fully functional and ready to help 500M+ rural
 - ✅ Complete audit trail with transcripts
 - ✅ Backward compatibility with old system
 
-**Ready for Amazon AI for Bharat Hackathon! 🚀**
+**Ready for AMD Slingshot Hackathon! 🚀**

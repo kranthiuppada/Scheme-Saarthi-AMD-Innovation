@@ -1,4 +1,4 @@
-# Quick Test Script for Scheme Saarthi Backend APIs
+# Quick Test Script for this Scheme Saarthi Backend APIs
 # PowerShell version
 
 $BACKEND_URL = "http://localhost:5000"

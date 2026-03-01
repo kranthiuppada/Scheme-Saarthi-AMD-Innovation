@@ -1,5 +1,5 @@
 #!/bin/bash
-# Quick test script for Scheme Saarthi backend APIs
+# Quick test script for this Scheme Saarthi backend APIs
 
 BACKEND_URL="http://localhost:5000"
 

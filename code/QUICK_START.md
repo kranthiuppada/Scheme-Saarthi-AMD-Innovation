@@ -285,7 +285,7 @@ git commit -m "docs: Update documentation for Scheme Saarthi platform"
 ### Issue: Voice agent doesn't speak Hindi
 **Solution**: Check GEMINI_MODEL config and ensure using Google's multilingual model.
 
-### Issue: Frontend shows "Customer" instead of "Citizen"
+### Issue: Frontend show "Customer" instead of "Citizen"
 **Solution**: Frontend hasn't been updated yet - it's in the TODO list.
 
 ---

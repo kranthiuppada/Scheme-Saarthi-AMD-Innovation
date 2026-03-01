@@ -329,6 +329,6 @@ You now have a **functional Scheme Saarthi backend** with:
 - ✅ RAG search for scheme knowledge
 - ✅ End-to-end voice → database flow functional
 
-**Backend transformation: 75% complete!** 🎯
+**Backend transformation: 75% complete** 🎯
 
 Ready to help 500M+ rural Indians discover ₹50,000+ Crores in unclaimed benefits! 🇮🇳

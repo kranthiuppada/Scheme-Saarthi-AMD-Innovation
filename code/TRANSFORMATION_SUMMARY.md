@@ -1,7 +1,7 @@
 # 🇮🇳 Scheme Saarthi - Code Transformation Summary
 
 ## Overview
-This document summarizes the transformation of the codebase from "CallFusion AI" (electronics service) to "Scheme Saarthi" (government scheme discovery platform) for the Amazon AI for Bharat Hackathon.
+This document summarizes the transformation of the codebase from "CallFusion AI" (electronics service) to "Scheme Saarthi" (government scheme discovery platform) for the AMD Slingshot Hackathon.
 
 ## Transformation Completed: ✅
 
@@ -521,6 +521,6 @@ TRANSCRIBE_LANGUAGE_CODE=hi-IN
 - AWS service integrations
 - Knowledge base content replacement
 
-The foundation is solid. The remaining work is primarily connecting the dots and adding the AWS-specific features that make Scheme Saarthi unique for the Amazon AI for Bharat Hackathon.
+The foundation is solid. The remaining work is primarily connecting the dots and adding the AWS-specific features that make Scheme Saarthi unique for the AMD Slingshot Hackathon.
 
 **Good luck with your hackathon! 🇮🇳🚀**

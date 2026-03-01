@@ -235,7 +235,7 @@ node seedSchemes.js
 
 ---
 
-## 🚀 Next Immediate Step
+## 🚀 Nxt Immediate Step
 
 **Create the 3 new route files**, then update `index.js`. This will make the new controllers accessible via API, which is critical for the MCP server to function.
 
