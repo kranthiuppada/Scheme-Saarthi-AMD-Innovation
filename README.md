@@ -187,7 +187,7 @@ python main.py
 
 ### 4. RAG Server Setup
 ```bash
-cd code/Amazon_AI_Challenge/rag-server
+cd code/Amd_AI_Challenge/rag-server
 pip install -r requirements.txt
 
 # Add scheme PDFs to knowledge_base/ folder
@@ -403,7 +403,7 @@ node scheme-mcp-server.js
 
 ### PM2 Production Setup
 ```bash
-cd code/Amazon_AI_Challenge/mern/backend
+cd code/Amd_AI_Challenge/mern/backend
 pm2 start ecosystem.config.js
 pm2 save
 pm2 startup
